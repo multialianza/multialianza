@@ -1,26 +1,34 @@
 # Hola 👋 Soy Iván Salazar Zepeda
 
+# Hola 👋 Soy [Iván Salazar Zepeda]
+
+💻 Ingeniero Comercial / Desarrollador Front end / Desarrollador FullStack
+🌎 Chile  
+
+---
+
 ## 🚀 Sobre mí
+- Trabajo con JavaScript, Node.js y PostgreSQL
+- Interesado en Ciberseguridad
+- Aprendiendo desarrollo full-stack
+
+---
+
 ## 💡 Proyectos
+- 📊 Panel educativo
+- 📋 KanbanPro
+- 🌐 Portafolio web
+
+---
+
 ## 🌎 Intereses
+- 🔐 Ciberseguridad
+- 🎨 UX/UI
+- 📚 Aprendizaje continuo
+
+---
+
 ## 📫 Contacto
+LinkedIn: https://linkedin.com/in/tuusuario  
+GitHub: https://github.com/tuusuario
 
-
-
-
-## Hi there 👋
-
-<!--
-**multialianza/multialianza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
