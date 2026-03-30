@@ -44,8 +44,7 @@ GitHub: https://github.com/tuusuario
 ![Ruby](https://img.shields.io/badge/Ruby-Language-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-Fullstack-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![ERB](https://img.shields.io/badge/ERB-Templates-8B0000?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Styles-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ---
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
