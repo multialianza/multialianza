@@ -2,7 +2,7 @@
 # Aprendiendo desarrollo Fullstack
 
 
-💻 Ingeniero Comercial / Desarrollador Front end / Desarrollador FullStack-
+💻 Ingeniero Comercial / Desarrollador FrontEnd / Desarrollador FullStack (En formación)-
 🌎 Chile  
 
 ---
@@ -60,6 +60,17 @@
 
 ---
 
+### ☁️ SaaS Engineering
+
+![SaaS](https://img.shields.io/badge/SaaS-Platform-6C63FF?style=for-the-badge)
+![Multi-Tenant](https://img.shields.io/badge/Multi--Tenant-System-8A2BE2?style=for-the-badge)
+![Cloud Architecture](https://img.shields.io/badge/Cloud-Architecture-1E90FF?style=for-the-badge)
+![Scalable Systems](https://img.shields.io/badge/Scalable-Systems-2E8B57?style=for-the-badge)
+![API First](https://img.shields.io/badge/API-First-000000?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-FF4500?style=for-the-badge)
+
+---
+
 ### ☁️ Deploy & Cloud
 
 ![Vercel](https://img.shields.io/badge/Vercel-Frontend-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -114,7 +125,7 @@
 ![Pentesting](https://img.shields.io/badge/Pentesting-Ethical-111111?style=for-the-badge)
 
 
-
+---
 
 
 ## 🚀 Sobre mí
@@ -125,7 +136,7 @@
 
   🌱 Aprende más sobre el desarrollo full-stack y los sistemas de datos.
 
-  🎯 Mi objetivo es crear herramientas de desarrollo de forma segura que permitan tomar decisiones en el corto plazo aplicado a ciertas áreas de la industria automotriz  comprender y utilizar el mundo digital de forma segura.
+  🎯 Mi objetivo es crear herramientas de desarrollo de forma segura que permitan tomar decisiones en el corto plazo aplicado a ciertas áreas en la industria automotriz.
 
 ## 💡 Proyectos
 - 📊 Panel educativo
@@ -135,9 +146,9 @@
 ---
 
 ## 🌎 Intereses
-- 🔐 Ciberseguridad
-- 🎨 UX/UI
-- 📚 Aprendizaje continuo
+- 🔐 IA
+- 🎨 Data Science 
+- 📚 Desarrollo FullStack
 
 ---
 
