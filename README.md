@@ -85,7 +85,7 @@ GitHub: https://github.com/tuusuario
 ![Vercel](https://img.shields.io/badge/Vercel-Frontend-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
+---
 
 ## 📋 Pronto también iré por:
 
