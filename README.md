@@ -1,22 +1,29 @@
 # Hola 👋  Soy Iván Salazar Zepeda
-# Aprendiendo desarrollo Fullstack
+- Aprendiendo desarrollo Fullstack
+  Aprendiendo xxxx
+
+💻 Ingeniero / Desarrollador  
+🌎 Chile  
 
 
-💻 Ingeniero Comercial / Desarrollador FrontEnd / Desarrollador FullStack (En formación)-
+💻 Ingeniero Comercial / Desarrollador FrontEnd / Desarrollador FullStack (En formación)
 🌎 Chile  
 
 ---
+## 🚀 Sobre mí
+  
+   🔭 Actualmente trabajando en proyecto de desarrollo de software para la industria automotriz.
 
-## 🚀 Mis Habilidades
-- Trabajo con JavaScript, Node.js y PostgreSQL
-- Interesado en Ciberseguridad
-- Aprendiendo desarrollo full-stack
-- 
+  🧠 Interesado en Desarrollo Web, Data Science, IA, Data Analysis.
+
+  🌱 Aprende más sobre el desarrollo full-stack y los sistemas de datos.
+
+  🎯 Mi objetivo es crear herramientas de desarrollo de forma segura que permitan tomar decisiones en el corto plazo aplicado a ciertas áreas en la industria automotriz.
 
 ---
 
 
-## 🛠️ Tech Stack
+## 🛠️ Mis Habilidades
 
 ### 🚀 Frontend 
 
@@ -39,7 +46,6 @@
 ![Express](https://img.shields.io/badge/Express.js-API-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/API-REST-6C63FF?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/Auth-JWT-FF6F00?style=for-the-badge)
-![Bcrypt](https://img.shields.io/badge/Security-Bcrypt-5A29E4?style=for-the-badge)
 
 ---
 
@@ -60,17 +66,6 @@
 
 ---
 
-### ☁️ SaaS Engineering
-
-![SaaS](https://img.shields.io/badge/SaaS-Platform-6C63FF?style=for-the-badge)
-![Multi-Tenant](https://img.shields.io/badge/Multi--Tenant-System-8A2BE2?style=for-the-badge)
-![Cloud Architecture](https://img.shields.io/badge/Cloud-Architecture-1E90FF?style=for-the-badge)
-![Scalable Systems](https://img.shields.io/badge/Scalable-Systems-2E8B57?style=for-the-badge)
-![API First](https://img.shields.io/badge/API-First-000000?style=for-the-badge)
-![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-FF4500?style=for-the-badge)
-
----
-
 ### ☁️ Deploy & Cloud
 
 ![Vercel](https://img.shields.io/badge/Vercel-Frontend-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -79,7 +74,6 @@
 ## 🚀 Pronto también iré por:
 
 ### 🚀 Frontend (Modern Web)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-Typed-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-Framework-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -87,14 +81,12 @@
 ---
 
 ### 🧠 Backend (Scalable Systems)
-
 ![Java](https://img.shields.io/badge/Java-Enterprise-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
 ### 🤖 Inteligencia Artificial & Machine Learning
-
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Models-8A2BE2?style=for-the-badge)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-Systems-6C63FF?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -102,7 +94,6 @@
 ---
 
 ### 📊 Data Science & Analysis
-
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science-Insights-00BFFF?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Visualization-1E90FF?style=for-the-badge)
@@ -110,13 +101,11 @@
 ---
 
 ### ☁️ Cloud & Deploy
-
 ![Render](https://img.shields.io/badge/Render-Backend-46E3B7?style=for-the-badge)
 
 ---
 
 ### 🔐 Security Engineering
-
 ![OWASP](https://img.shields.io/badge/OWASP-Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Auth-Secure-FF6F00?style=for-the-badge)
 ![Encryption](https://img.shields.io/badge/Encryption-AES-6A0DAD?style=for-the-badge)
@@ -128,15 +117,7 @@
 ---
 
 
-## 🚀 Sobre mí
-  
-   🔭 Actualmente trabajando en proyecto de desarrollo de software para la industria automotriz.
 
-  🧠 Interesado en Desarrollo Web, Data Science, IA, Data Analysis.
-
-  🌱 Aprende más sobre el desarrollo full-stack y los sistemas de datos.
-
-  🎯 Mi objetivo es crear herramientas de desarrollo de forma segura que permitan tomar decisiones en el corto plazo aplicado a ciertas áreas en la industria automotriz.
 
 ## 💡 Proyectos
 - 📊 Panel educativo
