@@ -5,6 +5,7 @@
 🌎 Santiago / Chile  
 
 ---
+
 ## 🚀 Sobre mí
   
    🔭 Actualmente trabajando en proyecto de desarrollo de software para la Industria Automotriz.
@@ -84,6 +85,8 @@ GitHub: https://github.com/tuusuario
 ![Vercel](https://img.shields.io/badge/Vercel-Frontend-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+
+
 ## 📋 Pronto también iré por:
 
 ### 🚀 Frontend (Modern Web)
@@ -93,7 +96,6 @@ GitHub: https://github.com/tuusuario
 ---
 ### 🧠 Backend (Scalable Systems)
 ![Java](https://img.shields.io/badge/Java-Enterprise-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ---
 ### 🤖 Inteligencia Artificial & Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Models-8A2BE2?style=for-the-badge)
