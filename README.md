@@ -1,14 +1,13 @@
 # Hola 👋  Soy Iván Salazar Zepeda
-- Aprendiendo desarrollo Fullstack
-  Aprendiendo xxxx
 
-💻 Ingeniero / Desarrollador FrontEnd / Desarrollador FullStack (en formación)  
+💻 Ingeniero Comercial / Desarrollador FrontEnd / Desarrollador FullStack (en formación)  
+🚗 Enfocado en tecnología aplicada al rubro automotriz  
 🌎 Chile  
 
 ---
 ## 🚀 Sobre mí
   
-   🔭 Actualmente trabajando en proyecto de desarrollo de software para la industria automotriz.
+   🔭 Actualmente trabajando en proyecto de desarrollo de software para la Industria Automotriz.
 
   🧠 Interesado en Desarrollo Web, Data Science, IA, Data Analysis.
 
@@ -17,7 +16,24 @@
   🎯 Mi objetivo es crear herramientas de desarrollo de forma segura que permitan tomar decisiones en el corto plazo aplicado a ciertas áreas en la Industria Automotriz.
 
 ---
+## 💡 Proyectos
+- 📊 Panel educativo
+- 📋 KanbanPro
+- 🌐 Portafolio web
 
+---
+
+## 🌎 Intereses
+- 🔐 IA
+- 🎨 Data Science 
+- 📚 Desarrollo FullStack
+
+---
+
+## 📫 Contacto
+LinkedIn: https://linkedin.com/in/tuusuario  
+GitHub: https://github.com/tuusuario
+---
 
 ## 🛠️ Mis Habilidades
 
@@ -103,21 +119,5 @@
 
 
 
-## 💡 Proyectos
-- 📊 Panel educativo
-- 📋 KanbanPro
-- 🌐 Portafolio web
 
----
-
-## 🌎 Intereses
-- 🔐 IA
-- 🎨 Data Science 
-- 📚 Desarrollo FullStack
-
----
-
-## 📫 Contacto
-LinkedIn: https://linkedin.com/in/tuusuario  
-GitHub: https://github.com/tuusuario
 
