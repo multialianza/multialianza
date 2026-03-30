@@ -13,23 +13,6 @@
 - Aprendiendo desarrollo full-stack
 - 
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Rails-D30001?logo=rubyonrails&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-
-
-
 ---
 
 
