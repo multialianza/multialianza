@@ -2,7 +2,7 @@
 
 💻 Ingeniero Comercial / Desarrollador FrontEnd / Desarrollador FullStack (en formación)  
 🚗 Enfocado en tecnología aplicada al rubro automotriz  
-🌎 Chile  
+🌎 Santiago / Chile  
 
 ---
 ## 🚀 Sobre mí
@@ -33,6 +33,7 @@
 ## 📫 Contacto
 LinkedIn: https://linkedin.com/in/tuusuario  
 GitHub: https://github.com/tuusuario
+
 ---
 
 ## 🛠️ Mis Habilidades
