@@ -32,8 +32,9 @@
 ---
 
 ## 📫 Contacto
-LinkedIn: https://linkedin.com/in/tuusuario  
-GitHub: https://github.com/tuusuario
+LinkedIn: https://www.linkedin.com/in/iv%C3%A1n-alejandro-salazar-zepeda-6301b2105/
+GitHub: 
+
 
 ---
 
