@@ -20,19 +20,19 @@
 ## 💡 Proyectos
 ---
 # 📊 Proyecto Buscador de Recetas:
-- Ver código en Github: https://github.com/multialianza/BuscadorDeRecetas
-- Ver Demo en vivo: https://multialianza.github.io/BuscadorDeRecetas/
-- Tecnologías utilizadas: Html, Css, JS, Bootstrap 5.
-- Objetivo del proyecto:  Construir una maqueta estática y completamente funcional a nivel visual. Debe ser una única página que demuestre cómo se verá y se sentirá la aplicación, asegurando que el diseño sea intuitivo, atractivo y responsivo.
+- **Ver código en Github:** https://github.com/multialianza/BuscadorDeRecetas
+- **Ver Demo en vivo:** https://multialianza.github.io/BuscadorDeRecetas/
+- **Tecnologías utilizadas:** Html, Css, JS, Bootstrap 5.
+- **Objetivo del proyecto:**  Construir una maqueta estática y completamente funcional a nivel visual. Debe ser una única página que demuestre cómo se verá y se sentirá la aplicación, asegurando que el diseño sea intuitivo, atractivo y responsivo.
   
 # 📋 Proyecto Kanban Pro:
-- Ver código en Github: https://github.com/multialianza/ProyectoIntegradorSprint1
-- Ver Demo en vivo: https://proyecto-integrador-sprint1.vercel.app/
-- Tecnologías utilizadas: Html, Css, JS, Node, Express, Hbs , fs.
-- Objetivo del proyecto: Construir la aplicación web inicial renderizada desde el servidor, incluyendo la interfaz de usuario, la navegación y un mecanismo de persistencia de datos local utilizando el sistema de archivos de Node.js y un archivo JSON.
+- **Ver código en Github:** https://github.com/multialianza/ProyectoIntegradorSprint1
+- **Ver Demo en vivo:** https://proyecto-integrador-sprint1.vercel.app/
+- **Tecnologías utilizadas:** Html, Css, JS, Node, Express, Hbs , fs.
+- **Objetivo del proyecto:** Construir la aplicación web inicial renderizada desde el servidor, incluyendo la interfaz de usuario, la navegación y un mecanismo de persistencia de datos local utilizando el sistema de archivos de Node.js y un archivo JSON.
   
 # 🌐 Portafolio web: 
-- Ver mi Portafolio: https://multialianza.github.io/MiPortafolio/
+- **Ver mi Portafolio:** https://multialianza.github.io/MiPortafolio/
 
 ---
 
@@ -44,8 +44,8 @@
 ---
 
 ## 📫 Contacto
-- LinkedIn: https://www.linkedin.com/in/iv%C3%A1n-alejandro-salazar-zepeda-6301b2105
-- GitHub: https://github.com/multialianza
+- **LinkedIn:** https://www.linkedin.com/in/iv%C3%A1n-alejandro-salazar-zepeda-6301b2105
+- **GitHub:** https://github.com/multialianza
 
 
 ---
