@@ -24,8 +24,8 @@
 - Ver Demo en vivo: https://multialianza.github.io/BuscadorDeRecetas/
   
 # 📋 Proyecto Kanban Pro:
-- Ver código en Github:
-- Ver Demo en vivo:
+- Ver código en Github: 
+- Ver Demo en vivo: proyecto-integrador-sprint1-tos36m65k-multialianzas-projects.vercel.app
   
 # 🌐 Portafolio web: https://multialianza.github.io/MiPortafolio/
 
