@@ -25,7 +25,7 @@
   
 # 📋 Proyecto Kanban Pro:
 - Ver código en Github: 
-- Ver Demo en vivo: proyecto-integrador-sprint1.vercel.app
+- Ver Demo en vivo: https://proyecto-integrador-sprint1.vercel.app/
   
 # 🌐 Portafolio web: https://multialianza.github.io/MiPortafolio/
 
