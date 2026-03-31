@@ -20,7 +20,7 @@
 ## 💡 Proyectos
 ---
 # 📊 Proyecto Buscador de Recetas:
-- Ver código en Github:
+- Ver código en Github: https://github.com/multialianza/BuscadorDeRecetas
 - Ver Demo en vivo: https://multialianza.github.io/BuscadorDeRecetas/
   
 # 📋 Proyecto Kanban Pro:
