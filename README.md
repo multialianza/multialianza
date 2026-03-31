@@ -18,9 +18,9 @@
 
 ---
 ## 💡 Proyectos
-- 📊 Panel educativo
-- 📋 KanbanPro
-- 🌐 Portafolio web
+- 📊 Proyecto integrador Sprint 1: https://github.com/multialianza/ProyectoIntegradorSprint1
+- 📋 Proyecto integrador Sprint 2: 
+- 🌐 Portafolio web: 
 
 ---
 
