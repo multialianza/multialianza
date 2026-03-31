@@ -20,7 +20,7 @@
 ## 💡 Proyectos
 - 📊 Proyecto integrador Sprint 1: https://github.com/multialianza/ProyectoIntegradorSprint1
 - 📋 Proyecto integrador Sprint 2: https://github.com/multialianza/ProyectoIntegradorSprint2
-- 🌐 Portafolio web: 
+- 🌐 Portafolio web: https://github.com/multialianza/MiPortafolio
 
 ---
 
