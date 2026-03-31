@@ -18,9 +18,16 @@
 
 ---
 ## 💡 Proyectos
-- 📊 Proyecto integrador Sprint 1: https://github.com/multialianza/ProyectoIntegradorSprint1
-- 📋 Proyecto integrador Sprint 2: https://github.com/multialianza/ProyectoIntegradorSprint2
-- 🌐 Portafolio web: https://multialianza.github.io/MiPortafolio/
+---
+# 📊 Proyecto Buscador de Recetas:
+- Ver código en Github:
+- Ver Demo en vivo: https://multialianza.github.io/BuscadorDeRecetas/
+  
+# 📋 Proyecto Kanban Pro:
+- Ver código en Github:
+- Ver Demo en vivo:
+  
+# 🌐 Portafolio web: https://multialianza.github.io/MiPortafolio/
 
 ---
 
