@@ -32,8 +32,8 @@
 ---
 
 ## 📫 Contacto
-LinkedIn: https://www.linkedin.com/in/iv%C3%A1n-alejandro-salazar-zepeda-6301b2105
-GitHub: https://github.com/multialianza
+- LinkedIn: https://www.linkedin.com/in/iv%C3%A1n-alejandro-salazar-zepeda-6301b2105
+- GitHub: https://github.com/multialianza
 
 
 ---
