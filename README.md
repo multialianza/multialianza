@@ -1,6 +1,6 @@
 # Hola 👋  Soy Iván Salazar Zepeda
 
-💻 Ingeniero Comercial / Desarrollador FrontEnd / Desarrollador FullStack (en formación)  
+💻 Ingeniero Comercial / Ingeniero Administración de empresas / Desarrollador FrontEnd / Desarrollador FullStack en JS
 🚗 Enfocado en tecnología aplicada al rubro automotriz  
 🌎 Santiago / Chile  
 
